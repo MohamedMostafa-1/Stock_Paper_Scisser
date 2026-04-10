@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Stock_Paper_Scisser/Stock_Paper_Scisser.vcxproj" />
+  <Project Path="Stock_Paper_Scisser/Stock_Paper_Scisser.vcxproj" Id="91f45565-5c33-4fc7-b2cf-d4a7e03b72a6" />
 </Solution>
