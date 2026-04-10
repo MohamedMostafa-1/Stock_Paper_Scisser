@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Stock_Paper_Scisser/Stock_Paper_Scisser.vcxproj" />
+</Solution>
